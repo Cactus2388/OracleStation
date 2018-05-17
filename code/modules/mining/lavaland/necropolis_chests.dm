@@ -72,11 +72,11 @@
 		if(28)
 			new /obj/item/disk/design_disk/modkit_disc/bounty(src)
 		if(29)
-			new /obj/item/bedsheet/cosmos
-			new /obj/item/ore/bluespace_crystal
-			new /obj/item/ore/bluespace_crystal
-			new /obj/item/ore/bluespace_crystal
-			new /obj/item/ore/bluespace_crystal
+			new /obj/item/bedsheet/cosmos(src)
+			new /obj/item/ore/bluespace_crystal(src)
+			new /obj/item/ore/bluespace_crystal(src)
+			new /obj/item/ore/bluespace_crystal(src)
+			new /obj/item/ore/bluespace_crystal(src)
 			
 //KA modkit design discs
 /obj/item/disk/design_disk/modkit_disc
