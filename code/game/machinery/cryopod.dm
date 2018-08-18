@@ -171,6 +171,7 @@
 	// These items will NOT be preserved
 	var/list/do_not_preserve_items = list (
 		/obj/item/device/mmi/posibrain
+		/obj/item/areaeditor/blueprints/cyborg
 	)
 
 /obj/machinery/cryopod/Initialize()
